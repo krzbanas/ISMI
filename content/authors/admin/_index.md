@@ -28,20 +28,21 @@ interests:
     - environmental studies
     - polymers characterization
     - quality control screening
-
-equipment:
-- FTIR Spectrometer IFS80v
-company: Bruker
-year: 2018
-- FTIR Microscope Hyperion 3000
-company: Bruker
-year: 2018
-- mIRage microscope OPTIR
-company: Photothermal
-year: 2018
-- nanoIR3 AFM-IR microscope
-company: Anasys/Bruker
-year: 2018
+education:
+  courses:
+  - course: FTIR Spectrometer IFS80v
+    institution: Bruker
+    year: 2018
+  - course: FTIR Microscope Hyperion 3000
+    institution: Bruker
+    year: 2018
+  - course: mIRage microscope OPTIR
+    institution: Photothermal Spectroscopy Company
+    year: 2018
+  - course: nanoIR3 AFM-IR microscope
+    institution: Anasys/Bruker
+    year: 2018
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
