@@ -29,6 +29,20 @@ date_format = "Jan 2006"
   * sub-micron photothermal
   * AFM-IR
  
+ 
+ [[experience]]
+  title = "Beamline Commisioning"
+  company = "FMB Bruker"
+  company_url = ""
+  location = "Singapore"
+  date_start = "2000-03-15"
+  date_end = ""
+  description = """
+  Capabilities:
+  * FTIR spectroscopy
+  * FTIR microscopy
+ 
+ 
   """
 
 +++
