@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: ISMI  
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,24 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Infrared Spectro/Microscopy beamline
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Singapore Synchrotron Light Source
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Infrared Spectro/Microscopy beamline
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+    - chemical imaging of biological tissues
+    - chemical identification of compounds
+    - electronic properties of novel materials
+    - forensic sciences
+    - environmental studies
+    - polymers characterization
+    - quality control screening
 
 education:
   courses:
@@ -70,6 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ISMI (Infrared Spectro/Microscopy) beamline provides a state-of-the-art Fourier Transform IR spectrometer and microscope to supply diffraction-limited spatial resolution to an ever-widening range of infrared spectroscopy experiments. Synchrotron based source provides a versatile infrared source that covers a spectral range from 10000 to 10 cm<sup>-1</sup> and has considerable brightness advantages over conventional (thermal) IR sources enabling IR experiments with high resolution and studies of extremely small samples.
