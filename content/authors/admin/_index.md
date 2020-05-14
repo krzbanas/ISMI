@@ -30,18 +30,18 @@ interests:
     - quality control screening
 
 equipment:
-  - FTIR Spectrometer IFS80v
-    company: Bruker
-    year: 2018
-  - FTIR Microscope Hyperion 3000
-    company: Bruker
-    year: 2018
-  - mIRage microscope OPTIR
-    company: Photothermal
-    year: 2018
-  - nanoIR3 AFM-IR microscope
-    company: Anasys/Bruker
-    year: 2018
+- FTIR Spectrometer IFS80v
+company: Bruker
+year: 2018
+- FTIR Microscope Hyperion 3000
+company: Bruker
+year: 2018
+- mIRage microscope OPTIR
+company: Photothermal
+year: 2018
+- nanoIR3 AFM-IR microscope
+company: Anasys/Bruker
+year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
