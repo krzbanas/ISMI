@@ -28,9 +28,7 @@ date_format = "Jan 2006"
   Capabilities:
   * sub-micron photothermal
   * AFM-IR
- 
- 
- [[experience]]
+[[experience]]
   title = "Beamline Commisioning"
   company = "FMB Bruker"
   company_url = ""
@@ -41,8 +39,6 @@ date_format = "Jan 2006"
   Capabilities:
   * FTIR spectroscopy
   * FTIR microscopy
- 
- 
   """
 
 +++
