@@ -28,7 +28,7 @@ interests:
     - environmental studies
     - polymers characterization
     - quality control screening
-education:
+equipment:
   courses:
   - course: FTIR Spectrometer IFS80v
     institution: Bruker
