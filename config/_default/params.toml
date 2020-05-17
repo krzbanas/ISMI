@@ -191,7 +191,7 @@ plugins_js  = []
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
-  links_authors = true
+
 # Configuration of project pages.
 [projects]
   # Views for associated content.
