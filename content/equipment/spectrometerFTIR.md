@@ -29,3 +29,11 @@ caption = "AFM-IR composite image of carbon nano tubes assemblies"
 +++
 
 Details about the spectrometer
+
+|  Variable | Value |
+| --- | --- |
+|  Device | FTIR Spectrometer IFS80 v Bruker |
+|  Spectral Range | 10-10000 cm-1 |
+|  Spectral Resolution | 0.04 |
+|  Beam-splitter | KBr |
+|  Detector | MCT DTGS |
