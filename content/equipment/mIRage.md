@@ -3,7 +3,7 @@
 date = "2019-03-15"
 
 # Project title.
-title = "OPTIR Microscope mIRage Photothe"
+title = "OPTIR Microscope mIRage Photothermal Sp"
 
 # Project summary to display on homepage.
 summary = "mid-infrared FTIR microscope with 2D array of detectors (FPA)"
