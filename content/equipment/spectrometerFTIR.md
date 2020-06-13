@@ -37,3 +37,4 @@ Details about the spectrometer
 |  Spectral Resolution | 0.04 |
 |  Beam-splitter | KBr |
 |  Detector | MCT DTGS |
+
