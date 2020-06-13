@@ -38,3 +38,4 @@ Details about the spectrometer
 |  Beam-splitter | KBr |
 |  Detector | MCT DTGS |
 
+{{< figure library= "true" src="spectrometer.png" title="Spectrometer IFS 80v" >}}
