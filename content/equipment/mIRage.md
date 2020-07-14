@@ -3,17 +3,17 @@
 date = "2019-03-15"
 
 # Project title.
-title = "OPTIR Microscope mIRage Photothermal Sp"
+title = "O-PTIR Microscope mIRage Photothermal Spectroscopy"
 
 # Project summary to display on homepage.
-summary = "mid-infrared FTIR microscope with 2D array of detectors (FPA)"
+summary = "O-PTIR Microscope mIRage Photothermal Spectroscopy"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "CNT.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["NMR", "PFG-NMR", "zeolites"]
+tags = ["O-PTIR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
