@@ -6,14 +6,14 @@ date = "2019-03-15"
 title = "AFM-IR Microscope nanoIR3"
 
 # Project summary to display on homepage.
-summary = "mid-infrared FTIR microscope with 2D array of detectors (FPA)"
+summary = "AFM-IR Microscope nanoIR3"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "CNT.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["NMR", "PFG-NMR", "zeolites"]
+tags = ["AFM-IR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
