@@ -36,12 +36,12 @@ height = ""
 
 [[item]]
   title = "O-PTIR"
-  content = "Optically detected Photothermal Effect 1"
+  content = "Optically detected Photothermal Effect"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "slider/mIRAage.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "AFM-IR"
