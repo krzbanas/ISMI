@@ -42,7 +42,7 @@ height = 1000px
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "slider/mIRAage.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
-  <div style=\"height: 500px\"></div>
+
 [[item]]
   title = "AFM-IR"
   content = "Combined Atomic Force Microscopy with Infrared Phothermal Effect"
