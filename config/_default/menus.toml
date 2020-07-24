@@ -13,6 +13,12 @@
   url = "#equipment"
   weight = 15
 
+[[main]]
+  name = "Timeline"
+  url = "#experience"
+  weight = 18
+
+
 # [[main]]
 #  name = "Posts"
 #  url = "#posts"
