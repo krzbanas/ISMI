@@ -46,7 +46,7 @@
 
 [[main]]
   name = "Documentation"
-  url = "#docs"
+  url = "/docs"
   weight = 100
 
 
