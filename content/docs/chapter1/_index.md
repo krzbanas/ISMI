@@ -10,6 +10,12 @@ icon_pack: fas
 title: Chapter 1
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
+
+menu:
+  example:
+    parent: Chapter 1
+    weight: 1
+
 ---
 
 ## Flexibility
