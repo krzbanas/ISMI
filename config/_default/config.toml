@@ -82,7 +82,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 [[menu.docs]]
   name = "Manual"
   weight = 5
-  url = "/docs"
+  url = "/docs/"
 
 [[menu.chapter1]]
   name = "Chapter 1"
