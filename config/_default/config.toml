@@ -77,16 +77,6 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
-  # Documentation menu.
 
-[[menu.docs]]
-  name = "Manual"
-  weight = 5
-  url = "/docs/"
-
-[[menu.chapter1]]
-  name = "Chapter 1"
-  weight = 10
-  identifier = "Chapter 1"
   
   
