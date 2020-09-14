@@ -46,8 +46,14 @@
 
 [[main]]
   name = "Documentation"
-  url = "/docs"
+  url = "http://github.com/petschau/WinFellow"
   weight = 100
+
+[[menu.main]]
+name = "GitHub"
+weight = 0
+identifier = "GitHub"
+url = "https://ismi-manual.netlify.app/"
 
 
 # Link to a PDF of your resume/CV from the menu.
