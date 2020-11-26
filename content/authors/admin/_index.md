@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Infrared Spectro/Microscopy beamline
 
-areas of research:
+interests:
     - chemical imaging of biological tissues
     - chemical identification of compounds
     - electronic properties of novel materials
