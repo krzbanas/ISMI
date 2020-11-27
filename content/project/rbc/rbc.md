@@ -25,7 +25,7 @@ math = false
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-  caption: "Photo by me)"
+  caption: "Photo by me"
   focal_point: "Center"
   preview_only: false
   alt_text: An optional description of the image for screen readers.
