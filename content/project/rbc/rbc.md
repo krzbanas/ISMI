@@ -18,6 +18,11 @@ external_link = ""
 # Does the project detail page use math formatting?
 math = false
 
+
++++
+
+Malaria infected RBC characterised by infrared spectroscopy
+
 # Featured image
 # To use, place an image named `featured.jpg/png` in your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
@@ -29,8 +34,3 @@ image:
   focal_point: "Center"
   preview_only: false
   alt_text: An optional description of the image for screen readers.
-+++
-
-Malaria infected RBC characterised by infrared spectroscopy
-
-
