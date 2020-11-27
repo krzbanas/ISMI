@@ -18,6 +18,11 @@ external_link = ""
 # Does the project detail page use math formatting?
 math = false
 
+image:
+  placement: 1
+  caption: 'Your caption here.'
+  focal_point: ''
+  preview_only: false
 
 +++
 
