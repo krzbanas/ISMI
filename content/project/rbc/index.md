@@ -18,11 +18,15 @@ external_link = ""
 # Does the project detail page use math formatting?
 math = false
 
-image:
-  placement: 1
-  caption: 'Your caption here.'
-  focal_point: ''
-  preview_only: false
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder. 
+[image]
+  # Caption (optional)
+  caption = "Photo by me"
+  
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
 
 +++
 
