@@ -29,7 +29,6 @@ image:
   focal_point: "Center"
   preview_only: false
   alt_text: An optional description of the image for screen readers.
-
 +++
 
 Malaria infected RBC characterised by infrared spectroscopy
