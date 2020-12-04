@@ -3,8 +3,8 @@ date = "2008-07-31"
 lastmod = "2008-07-31"
 draft = false
 tags = ["explosives", "post-blast", "forensics"]
-title = "Fast and accurate post-blast determination of explosives by means of synchrotron infrared radiation"
-summary = """Integral Map with Annotations
+title = "TECEX 2007 Project"
+summary = """Fast and accurate post-blast determination of explosives by means of synchrotron infrared radiation
 """
 math = false
 
