@@ -1,11 +1,11 @@
 
 +++
-date = "2019-04-03"
-lastmod = "2019-04-03"
+date = "2019-07-31"
+lastmod = "2019-04-31"
 draft = false
 tags = ["food", "fraud", "edible birds nest"]
-title = "Map of the Integral (Interpolated) with Annotations"
-summary = """Integral Map with Annotations
+title = "EBN"
+summary = """EBN
 """
 math = false
 
