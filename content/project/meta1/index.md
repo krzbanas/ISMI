@@ -3,7 +3,7 @@ date = "2010-07-31"
 lastmod = "2010-07-31"
 draft = false
 tags = ["metamaterials"]
-title = "Metamaterials in view of infrared light"
+title = "Metamaterials 01"
 summary = """Metamaterials in view of infrared light
 """
 math = false
@@ -19,8 +19,6 @@ math = false
   focal_point = "Smart"
 
 +++
-
-
 
 Besides its basic scientific interest, work on electromagnetic metamaterials is spurred by a plethora of promising applications. The development of metamaterials for a spectral range from a fraction of THz to several hundred of THz is benefiting twice from synchrotron radiation,
 once through micro/nanomanufacturing involving X-ray deep lithography and again through the spectral characterisation by means of (synchrotron) infrared radiation. Unique among metamaterials, the meta-foil is an all-metal self-supported space grid that is locally stiff and globally flexible down to bending radii of about 100 µm for the current implementations. 
