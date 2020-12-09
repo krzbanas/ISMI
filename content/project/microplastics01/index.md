@@ -4,8 +4,8 @@ date = "2013-07-31"
 lastmod = "2013-07-31"
 draft = false
 tags = ["microplastics"]
-title = "Identification of microplastics in environmental samples through the rapid and robust staining method using the highly efficient and selective SPO Dye"
-summary = """Fano resonance in asymmetric metasurface: Separation of Sub-10 nm Enantiomers
+title = "Microplastics 01"
+summary = """Identification of microplastics in environmental samples through the rapid and robust staining method using the highly efficient and selective SPO Dye
 """
 math = false
 
