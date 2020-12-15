@@ -21,17 +21,30 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #  name = "All"
-  #  tag = "*"
+   [[content.filter_button]]
+   name = "All"
+    tag = "*"
   
-  # [[content.filter_button]]
+  [[content.filter_button]]
      name = "New"
      tag = "NEW"
   
-  # [[content.filter_button]]
-  #   name = "Malaria"
-  #   tag = "malaria"
+   [[content.filter_button]]
+    name = "Malaria"
+    tag = "malaria"
+
+
+ # [[content.filter_button]]
+ #    name = "All"
+ #    tag = "*"
+  
+ # [[content.filter_button]]
+ #    name = "Academia"
+ #   tags = ["PhD", "MSc", "BSc"]
+  
+ # [[content.filter_button]]
+ #    name = "Miscellaneous"
+ #    tags = ["R", "dataviz", "biodiversity", "conservation"]
 
 
 
