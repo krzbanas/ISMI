@@ -33,6 +33,10 @@ subtitle = ""
   #   name = "Other"
   #   tag = "Demo"
 
+
+ # Choose how much pages you would like to display (0 = all pages)
+  count = 3
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
