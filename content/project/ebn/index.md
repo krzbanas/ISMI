@@ -3,7 +3,7 @@
 date = "2019-07-31"
 lastmod = "2019-04-31"
 draft = false
-tags = ["food", "fraud", "edible birds nest"]
+tags = ["food", "fraud", "edible birds nest", "NEW"]
 title = "EBN"
 summary = """EBN
 """
