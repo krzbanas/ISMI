@@ -10,7 +10,7 @@ summary = "RBC Malaria FTIR oPTIR AFM-IR"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["RBC", "AFM-IR", "FTIR", "malaria", "O-PTIR", "blood", "erythrocytes"]
+tags = ["RBC", "AFM-IR", "FTIR", "malaria", "O-PTIR", "blood", "erythrocytes", "new"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
