@@ -26,8 +26,8 @@ subtitle = ""
     tag = "*"
   
   # [[content.filter_button]]
-     name = "New"
-     tag = "New"
+  #   name = "New"
+  #   tag = "New"
   
   # [[content.filter_button]]
   #   name = "Malaria"
