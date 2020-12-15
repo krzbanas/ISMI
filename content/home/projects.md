@@ -22,20 +22,19 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+    name = "All"
+    tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+     name = "New"
+     tag = "New"
   
   # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  #   name = "Malaria"
+  #   tag = "malaria"
 
 
- # Choose how much pages you would like to display (0 = all pages)
-  count = 3
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
