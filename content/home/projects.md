@@ -33,6 +33,14 @@ subtitle = ""
     name = "Malaria"
     tag = "malaria"
 
+   [[content.filter_button]]
+    name = "Biology"
+    tag = "biology"
+    
+   [[content.filter_button]]
+    name = "Materials"
+    tag = "materials"
+
 
  # [[content.filter_button]]
  #    name = "All"
