@@ -2,7 +2,7 @@
 date = "2010-07-31"
 lastmod = "2010-07-31"
 draft = false
-tags = ["metamaterials"]
+tags = ["metamaterials", "materials"]
 title = "Metamaterials 01"
 summary = """Metamaterials in view of infrared light
 """
