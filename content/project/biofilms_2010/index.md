@@ -3,7 +3,7 @@
 date = "2011-07-31"
 lastmod = "2011-07-31"
 draft = false
-tags = ["biofilms", "water"]
+tags = ["biofilms", "water", "biology"]
 title = "Biofilms FTIR"
 summary = """Investigating the representatives of water microcosm - Characterization of microbial biofilms by Fourier Transform Infrared (FTIR) spectrochemical imaging
 """
