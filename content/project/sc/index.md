@@ -3,7 +3,7 @@
 date = "2019-07-31"
 lastmod = "2019-07-31"
 draft = false
-tags = ["stratum corneum", "skin", "NEW"]
+tags = ["stratum corneum", "skin", "NEW", "biology"]
 title = "FTIR Stratum Corneum"
 summary = """Evaluation of the infrared micro-spectroscopic results of stratum corneum treated with various compounds – search for representative spectrum 
 """
