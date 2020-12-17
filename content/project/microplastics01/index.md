@@ -3,7 +3,7 @@
 date = "2013-07-31"
 lastmod = "2013-07-31"
 draft = false
-tags = ["microplastics"]
+tags = ["microplastics", "materials"]
 title = "Microplastics 01"
 summary = """Identification of microplastics in environmental samples through the rapid and robust staining method using the highly efficient and selective SPO Dye
 """
