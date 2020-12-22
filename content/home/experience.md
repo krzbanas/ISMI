@@ -30,16 +30,39 @@ date_format = "Jan 2006"
   * AFM-IR
   """
 [[experience]]
-  title = "Beamline Commisioning"
+  title = "Delivery to SSLS"
   company = "FMB Bruker"
   company_url = ""
-  location = "Singapore"
-  date_start = "2000-03-15"
+  location = "Berlin/Singapore"
+  date_start = "2005-03-14"
   date_end = ""
   description = """
   Capabilities:
   * FTIR spectroscopy
   * FTIR microscopy
   """
+
+
+[[experience]]
+  title = "Final Mirrors Testing"
+  company = "FMB Feinwerk- und Messtechnik GmbH"
+  company_url = ""
+  location = "Berlin"
+  date_start = "2005-02-01"
+  date_end = ""
+  description = """
+  """
+
+
+[[experience]]
+  title = "Final Mirrors Testing"
+  company = "FMB Feinwerk- und Messtechnik GmbH"
+  company_url = ""
+  location = "Berlin"
+  date_start = "2005-02-01"
+  date_end = ""
+  description = """
+  """
+
 
 +++
