@@ -17,6 +17,8 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
 [[experience]]
   title = "nanoIR3 and mIRage combo installation"
   company = "Anasys/Bruker Photothermal"
@@ -29,26 +31,24 @@ date_format = "Jan 2006"
   * sub-micron photothermal
   * AFM-IR
   """
+  
+ [[experience]]
+  title = "Installation"
+  company = "FMB Feinwerk- und Messtechnik GmbH"
+  company_url = ""
+  location = "Singapore"
+  date_start = "2005-04-01"
+  date_end = ""
+  description = """
+  """ 
+  
+
 [[experience]]
   title = "Delivery to SSLS"
-  company = "FMB Bruker"
+  company = "FMB Feinwerk- und Messtechnik GmbHr"
   company_url = ""
   location = "Berlin/Singapore"
   date_start = "2005-03-14"
-  date_end = ""
-  description = """
-  Capabilities:
-  * FTIR spectroscopy
-  * FTIR microscopy
-  """
-
-
-[[experience]]
-  title = "Final Mirrors Testing"
-  company = "FMB Feinwerk- und Messtechnik GmbH"
-  company_url = ""
-  location = "Berlin"
-  date_start = "2005-02-01"
   date_end = ""
   description = """
   """
