@@ -4,7 +4,7 @@ date = "2019-07-31"
 lastmod = "2019-04-31"
 draft = false
 tags = ["food", "fraud", "edible birds nest", "NEW", "biology"]
-title = "EBN"
+title = "Edible bird's nests"
 summary = """Edible Birds Nests authentication by FTIR
 """
 math = false
