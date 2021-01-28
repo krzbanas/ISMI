@@ -3,7 +3,7 @@ date = "2015-07-31"
 lastmod = "2015-07-31"
 draft = false
 tags = ["thin films", "materials"]
-title = "Polymer Coated Silicon Wafer"
+title = "Polymer coated silicon wafer"
 summary = """ Analysis of Polymer Coated Silicon Wafers by means of VeeMAX II
 """
 math = false
