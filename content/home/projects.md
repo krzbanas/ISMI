@@ -28,15 +28,19 @@ subtitle = ""
   [[content.filter_button]]
      name = "New"
      tag = "NEW"
-  
+     
+   [[content.filter_button]]
+    name = "Biology"
+    tag = "biology"  
+    
+   [[content.filter_button]]
+    name = "Forensics"
+    tag = "forensics"
+    
    [[content.filter_button]]
     name = "Malaria"
     tag = "malaria"
 
-   [[content.filter_button]]
-    name = "Biology"
-    tag = "biology"
-    
    [[content.filter_button]]
     name = "Materials"
     tag = "materials"
