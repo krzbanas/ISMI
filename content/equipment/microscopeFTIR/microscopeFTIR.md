@@ -28,7 +28,7 @@ caption = "AFM-IR composite image of carbon nano tubes assemblies"
 
 +++
 
-Details about the spectrometer
+Details about the microscope
 
 |  Variable | Value |
 | --- | --- |
