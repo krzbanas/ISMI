@@ -33,5 +33,5 @@ Details about the device
 |  Variable | Value |
 | --- | --- |
 |  Device | AFM-IR Microscope Anasys/ Bruker Nano|
-|  Spectral Range | 800-1800 cm-1 |
-|  Spectral Resolution | 6 |
+|  Spectral Range | 800-1800 cm<sup>-1</sup> |
+|  Spectral Resolution | 6 cm<sup>-1</sup> |
