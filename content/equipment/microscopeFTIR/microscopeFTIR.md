@@ -33,7 +33,7 @@ Details about the microscope
 |  Variable | Value |
 | --- | --- |
 |  Device | FTIR Microscope Hyperion 3000 Bruker |
-|  Spectral Range | 400-4000 cm-1 |
-|  Spectral Resolution | 0.04 |
+|  Spectral Range | 400-4000 cm<sup>-1</sup>|
+|  Spectral Resolution | 2 cm<sup>-1</sup>|
 |  Beam-splitter | KBr |
 |  Detector | FPA MCT |
