@@ -28,12 +28,10 @@ caption = "AFM-IR composite image of carbon nano tubes assemblies"
 
 +++
 
-Details about the spectrometer
+Details about the device
 
 |  Variable | Value |
 | --- | --- |
-|  Device | FTIR Microscope Hyperion 3000 Bruker |
-|  Spectral Range | 400-4000 cm-1 |
-|  Spectral Resolution | 0.04 |
-|  Beam-splitter | KBr |
-|  Detector | FPA MCT |
+|  Device | mIRage system Photothermal Spectroscopy|
+|  Spectral Range | 800-1900 cm-1 |
+|  Spectral Resolution | 6 |
