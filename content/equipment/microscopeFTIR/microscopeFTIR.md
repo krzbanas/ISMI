@@ -36,4 +36,9 @@ Details about the microscope
 |  Spectral Range | 400-4000 cm<sup>-1</sup>|
 |  Spectral Resolution | 2 cm<sup>-1</sup>|
 |  Beam-splitter | KBr |
-|  Detector | FPA MCT |
+|  Detectors | FPA, MCT |
+
+Accessories:
+- ATR Objective
+- GIR Objective
+- 
