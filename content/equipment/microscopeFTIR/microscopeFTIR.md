@@ -39,6 +39,13 @@ Details about the microscope
 |  Detectors | FPA, MCT |
 
 Accessories:
+- diamond cell
+- press
+
+
+Objectives:
+- Transmission/Reflection IR 15x 
+- Transmission/Reflection IR 32x 
 - ATR Objective
 - GIR Objective
-- 
+- Visual Overview 4x
