@@ -23,7 +23,7 @@ height = "600px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "slider/FTIR_system.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider/FTIR_combo.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -33,6 +33,18 @@ height = "600px"
  # cta_url = "https://sourcethemes.com/academic/"
  # cta_icon_pack = "fas"
  # cta_icon = "graduation-cap"
+
+
+[[item]]
+  title = "FTIR Microscope"
+  content = "FTIR Microscope Hyperion 3000"
+  align = "center"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/FTIR_microscope.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+
+
 
 [[item]]
   title = "O-PTIR"
