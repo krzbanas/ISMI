@@ -37,7 +37,7 @@ height = "600px"
 
 [[item]]
   title = "FTIR Microscope"
-  content = "FTIR Microscope Hyperion 3000"
+  content = "Hyperion 3000"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
@@ -65,8 +65,8 @@ height = "600px"
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Combo"
-  content = "Phothermal Effect Combo"
+  title = "Sub-micron and nano-scale IR"
+  content = "mIRage nanoIR3 Combo"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
