@@ -50,3 +50,17 @@ High throughput Michelson interferometer with automatic alignment
 |  FIR | Glass | Bolometer | SR or Hg|
 
 {{< figure library= "true" src="spectrometer.png" title="Spectrometer IFS 80v" >}}
+
+Accessories:
+
+- MIRacle ATR 
+  - A universal ATR sampling accessory for analysis of solids, liquids, pastes, gels and intractable materials:
+  - highest IR throughput 
+  - fully configurable – ZnSe, Diamond/ZnSe and Ge crystal plates 
+  - highest purity, type IIa diamond crystal and is chemically inert to acidic or caustic materials
+  - liquids retainer and volatiles cover to reduce the amount  of evaporation of a highly volatile liquid sample on the surface of  the crystal
+  - flow-through attachment for continuous monitoring or handling samples that pose a hazard from ambient exposure
+
+
+![image](https://user-images.githubusercontent.com/3423725/109464172-33a97900-7aa1-11eb-97b7-228aa29c65fb.png)
+
