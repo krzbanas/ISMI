@@ -28,7 +28,8 @@ math = false
 
 +++
 
-Details about the spectrometer
+Details about the spectrometer:
+High throughput Michelson interferometer with automatic alignment
 
 
 
