@@ -30,7 +30,8 @@ math = false
 
 Details about the spectrometer
 
-Table 1
+
+
 |  Variable | Value |
 | --- | --- |
 |  Device | FTIR Spectrometer IFS80 v Bruker |
@@ -39,7 +40,8 @@ Table 1
 |  Beam-splitters | see table 1 |
 |  Detectors |see table 2|
 
-Table 2
+
+
 |  Range | Beamsplitters | Detectors | Source|
 | --- | --- |  --- | --- |
 |  NIR | Glass | Diode | SR or Globar |
