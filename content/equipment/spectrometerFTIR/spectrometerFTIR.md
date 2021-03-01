@@ -68,4 +68,12 @@ Accessories:
   - Integrated position for IR polarization (KRS-5 for mid-IR and polyethylene for far-IR) - essential for monolayer analysis and study of sample orientation 
   - Available sample masks: 2", 5/8" and 3/8"
 
+- VeeMAX II with ATR – Variable Angle, Single Reflection ATR for Depth Profiling Studies
+  - Continuously variable set angle of incidence – 30 to 80 degrees
+  - 0.4 to 46 micron depth of penetration – dependent on crystal material, angle of incidence, sample’s refractive index and wavelength of IR beam – ideal for depth profiling studies
+  - High throughput for excellent quality spectra in a short time period
+  - Optional, high-pressure clamp for sampling of films, coatings or powdered samples
+  - Liquid samples can be analyzed with optional liquid retainer
+  - Flow-through attachment for continuous monitoring or handling samples that pose a hazard from ambient  exposure
+
 
