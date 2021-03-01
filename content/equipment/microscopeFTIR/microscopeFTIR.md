@@ -39,7 +39,13 @@ Details about the microscope
 |  Detectors | FPA, MCT |
 
 Accessories:
-- diamond cell
+- Micro Diamond Cell (1.6 mm aperture)
+  - small samples are easily held in place and flattened to ideal thicknesses for FTIR analysis
+  - the diamond windows in this cell are Type IIA synthetic for excellent transmission from the UV through far-IR spectral regions
+  - the hardness of diamond enables maximum pressure to be applied to all types of crystalline, fiber, or amorphous materials. 
+  - typical samples include fibers, paint chips, rubbers, and plastic materials including laminates. 
+  - mounted on a standard 2”x 3” plate.
+ 
 - press
 
 
