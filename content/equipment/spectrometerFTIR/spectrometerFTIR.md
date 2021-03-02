@@ -53,7 +53,7 @@ High throughput Michelson interferometer with automatic alignment
 
 Accessories:
 
-- MIRacle ATR -fast and easy IR sampling
+- [MIRacle ATR -fast and easy IR sampling]({{< ref "cv/index.md" >}})
   - a universal ATR sampling accessory for analysis of solids, liquids, pastes, gels and intractable materials
   - highest IR throughput 
   - fully configurable – ZnSe, Diamond/ZnSe and Ge crystal plates 
