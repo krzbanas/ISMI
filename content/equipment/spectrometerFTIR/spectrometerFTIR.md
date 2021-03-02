@@ -53,7 +53,7 @@ High throughput Michelson interferometer with automatic alignment
 
 Accessories:
 
-- [MIRacle ATR -fast and easy IR sampling]({{< ref "../accessories/MIRacle/index.md" >}})
+- [MIRacle ATR -fast and easy IR sampling]({{< ref "/accessories/MIRacle/index.md" >}})
  
  
 - VeeMAX II – the ultimate specular reflection accessory
