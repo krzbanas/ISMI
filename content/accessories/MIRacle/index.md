@@ -1,6 +1,6 @@
 +++
-date = "2019-07-31"
-lastmod = "2019-04-31"
+date = "2018-07-31"
+lastmod = "2018-08-31"
 draft = false
 tags = ["MIR", "ATR"]
 title = "MIRacle"
