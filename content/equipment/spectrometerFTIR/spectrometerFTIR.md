@@ -53,14 +53,8 @@ High throughput Michelson interferometer with automatic alignment
 
 Accessories:
 
-- [MIRacle ATR -fast and easy IR sampling]({{< ref "cv/index.md" >}})
-  - a universal ATR sampling accessory for analysis of solids, liquids, pastes, gels and intractable materials
-  - highest IR throughput 
-  - fully configurable – ZnSe, Diamond/ZnSe and Ge crystal plates 
-  - highest purity, type IIa diamond crystal and is chemically inert to acidic or caustic materials
-  - liquids retainer and volatiles cover to reduce the amount  of evaporation of a highly volatile liquid sample on the surface of  the crystal
-  - flow-through attachment for continuous monitoring or handling samples that pose a hazard from ambient exposure
-  
+- [MIRacle ATR -fast and easy IR sampling]({{< ref "MIRacle/MIRacle.md" >}})
+ 
 - VeeMAX II – the ultimate specular reflection accessory
   - selectable angle of incidence – from 30 to 80 degrees in one degree increments
   - measurement of thin films and  monolayers to relatively thick films
