@@ -56,7 +56,7 @@ Accessories:
 - [MIRacle ATR -fast and easy IR sampling]({{< ref "/accessories/MIRacle/index.md" >}})
  
  
-- [VeeMAX II – the ultimate specular reflection and ATR accessory] ({{< ref "/accessories/VeeMAXII_ATR/index.md" >}})
+- [VeeMAX II – the ultimate specular reflection and ATR accessory] ({{< ref "/accessories/VeeMaxII_ATR/index.md" >}})
 
   
 - Beam condenser 4x
