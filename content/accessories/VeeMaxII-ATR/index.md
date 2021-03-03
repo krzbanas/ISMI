@@ -3,7 +3,7 @@
 date = "2019-07-31"
 lastmod = "2019-04-31"
 draft = false
-tags = ["food"]
+tags = ["ATR"]
 title = "VeeMAX II"
 summary = """VeeMAX II
 """
@@ -13,7 +13,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "VeeMAX II"
+  caption = "VeeMAX II with ATR"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
