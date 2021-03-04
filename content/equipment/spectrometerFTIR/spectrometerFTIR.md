@@ -28,9 +28,9 @@ math = false
 
 +++
 
-Broad range high resolution vacuum FTIR spectrometer with accessories: [MIRacle]({{<ref"/accessories/MIRacle/index.md">}}), [VeeMax II]({{<ref"/accessories/VeeMaxII-ATR/index.md">}}), [Beam condenser]({{<ref"/accessories/BeamCondenser/index.md">}})
+Broad range high resolution vacuum FTIR spectrometer equipped with high throughput Michelson interferometer with automatic alignment
+and accessories: [MIRacle], [VeeMax II], [Beam condenser]
 
-High throughput Michelson interferometer with automatic alignment
 
 
 
