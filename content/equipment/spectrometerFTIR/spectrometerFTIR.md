@@ -6,7 +6,7 @@ date = "2019-03-15"
 title = "Spectrometer IFS 80v"
 
 # Project summary to display on homepage.
-summary = "Broad range high resolution vacuum FTIR spectrometer"
+summary = "Broad range high resolution vacuum FTIR spectrometer with accessories: MIRacle, VeeMaxII, Beam Condenser"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "CNT.png"
@@ -54,7 +54,6 @@ High throughput Michelson interferometer with automatic alignment
 Accessories:
 
 - [MIRacle ATR -fast and easy IR sampling]({{< ref "/accessories/MIRacle/index.md" >}})
- 
  
 - [VeeMAX II – the ultimate specular reflection and ATR accessory]({{< ref "/accessories/VeeMaxII-ATR/index.md" >}})
 
