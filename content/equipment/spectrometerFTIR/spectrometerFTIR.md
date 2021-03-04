@@ -29,7 +29,7 @@ math = false
 +++
 
 Broad range high resolution vacuum FTIR spectrometer equipped with high throughput Michelson interferometer with automatic alignment
-and accessories: 'MIRacle', 'VeeMax II', 'Beam condenser'.
+and accessories: MIRacle, VeeMax II, Beam condenser.
 
 
 
