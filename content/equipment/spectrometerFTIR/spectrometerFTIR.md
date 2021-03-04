@@ -49,7 +49,7 @@ High throughput Michelson interferometer with automatic alignment
 |  MIR | Glass | Diode | SR or Globar |
 |  FIR | Glass | Bolometer | SR or Hg|
 
-{{<figure library= "true" src="spectrometer.png" title="Spectrometer IFS 80v">}}
+{{< figure library= "true" src="spectrometer.png" title="Spectrometer IFS 80v">}}
 
 Accessories:
 
