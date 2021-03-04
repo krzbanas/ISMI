@@ -53,11 +53,11 @@ High throughput Michelson interferometer with automatic alignment
 
 Accessories:
 
-- [MIRacle ATR -fast and easy IR sampling]({{< ref "/accessories/MIRacle/index.md" >}})
+- [MIRacle ATR -fast and easy IR sampling]({{<ref"/accessories/MIRacle/index.md">}})
  
-- [VeeMAX II – the ultimate specular reflection and ATR accessory]({{< ref "/accessories/VeeMaxII-ATR/index.md" >}})
+- [VeeMAX II – the ultimate specular reflection and ATR accessory]({{<ref"/accessories/VeeMaxII-ATR/index.md">}})
 
-- [Beam condenser 4x]({{< ref "/accessories/BeamCondenser/index.md" >}})
+- [Beam condenser 4x]({{<ref"/accessories/BeamCondenser/index.md">}})
 
 
 
