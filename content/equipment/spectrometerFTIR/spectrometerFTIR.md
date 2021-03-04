@@ -6,7 +6,9 @@ date = "2019-03-15"
 title = "Spectrometer IFS 80v"
 
 # Project summary to display on homepage.
-summary = "Broad range high resolution vacuum FTIR spectrometer with accessories: MIRacle, VeeMaxII, Beam Condenser"
+summary = "
+Broad range high resolution vacuum FTIR spectrometer with accessories: [MIRacle]({{< ref "/accessories/MIRacle/index.md" >}}), [VeeMax II]({{< ref "/accessories/VeeMaxII-ATR/index.md" >}}), [Beam condenser]({{< ref "/accessories/BeamCondenser/index.md" >}})
+"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "CNT.png"
