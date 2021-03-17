@@ -5,7 +5,7 @@ date = "2011-07-31"
 lastmod = "2011-07-31"
 draft = false
 tags = ["fingerprints", "forensics"]
-title = "Fingerprints 02"
+title = "Fingerprints 2011"
 summary = """The spectroscopic detection of explosive materials in latent fingerprints after development with powders.
 
 """
