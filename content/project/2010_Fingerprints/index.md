@@ -4,7 +4,7 @@ date = "2010-07-31"
 lastmod = "2010-07-31"
 draft = false
 tags = ["fingerprints", "forensics"]
-title = "Fingerprints 01"
+title = "Fingerprints 2010"
 summary = """Detection of microscopic particles present as contaminants in latent fingerprints
 """
 math = false
