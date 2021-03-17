@@ -58,7 +58,7 @@ Accessories:
  
 - [VeeMAX II – the ultimate specular reflection and ATR accessory]({{<ref"/accessories/VeeMaxII-ATR/index.md">}})
 
-- [Beam condenser 4x]({{<ref"/accessories/BeamCondenser/index.md">}})
+- [Beam condenser 4x]({{<ref"/accessories/Beam-Condenser/index.md">}})
 
 
 
