@@ -3,7 +3,7 @@ date = "2008-07-31"
 lastmod = "2008-07-31"
 draft = false
 tags = ["explosives", "post-blast", "forensics", "materials"]
-title = "TECEX 2007 Project"
+title = "TECEX 2007"
 summary = """Fast and accurate post-blast determination of explosives by means of synchrotron infrared radiation
 """
 math = false
