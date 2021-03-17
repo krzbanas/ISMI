@@ -4,7 +4,7 @@ date = "2012-07-31"
 lastmod = "2012-07-31"
 draft = false
 tags = ["metamaterials", "Fano resonance"]
-title = "Metamaterials 02"
+title = "Metamaterials 2012"
 summary = """Fano resonance in asymmetric metasurface: Separation of Sub-10 nm Enantiomers
 """
 math = false
