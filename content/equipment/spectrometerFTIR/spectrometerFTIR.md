@@ -9,7 +9,7 @@ title = "Spectrometer IFS 80v"
 summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "CNT.png"
+# image_preview = "CNT.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
  [header]
- image = "headers/spectrometer.png"
- caption = "Spectrometer IFS 80v"
+# image = "headers/spectrometer.png"
+# caption = "Spectrometer IFS 80v"
 
 +++
 
@@ -34,9 +34,9 @@ and accessories: MIRacle, VeeMax II, Beam condenser.
 
 
 
-|  Variable | Value |
-| --- | --- |
+
 |  Device | FTIR Spectrometer IFS80 v Bruker |
+| --- | --- |
 |  Spectral Range | 10-10000 cm<sup>-1</sup> |
 |  Spectral Resolution | 0.04 |
 |  Beam-splitters | see table 1 |
@@ -44,13 +44,13 @@ and accessories: MIRacle, VeeMax II, Beam condenser.
 
 
 
-|  Range | Beamsplitters | Detectors | Source|
+|  Range | Beamsplitter(s) | Detector(s) | Source(s)|
 | --- | --- |  --- | --- |
 |  NIR | Glass | Diode | SR or Globar |
 |  MIR | Glass | Diode | SR or Globar |
 |  FIR | Glass | Bolometer | SR or Hg|
 
-{{< figure library= "true" src="spectrometer.png" title="Spectrometer IFS 80v">}}
+#{{< figure library= "true" src="spectrometer.png" title="Spectrometer IFS 80v">}}
 
 Accessories:
 
