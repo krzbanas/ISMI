@@ -28,9 +28,7 @@ math = false
 
 +++
 
-Broad range high resolution vacuum FTIR spectrometer equipped with high throughput Michelson interferometer with automatic alignment
-and accessories: MIRacle, VeeMax II, Beam condenser.
-
+Broad range high resolution vacuum FTIR spectrometer equipped with high throughput Michelson interferometer with automatic alignment.
 
 
 
@@ -50,7 +48,6 @@ and accessories: MIRacle, VeeMax II, Beam condenser.
 |  MIR | Glass | Diode | SR or Globar |
 |  FIR | Glass | Bolometer | SR or Hg|
 
-# {{< figure library= "true" src="spectrometer.png" title="Spectrometer IFS 80v">}}
 
 Accessories:
 
