@@ -8,8 +8,17 @@ title = "Microscope Hyperion 3000"
 # Project summary to display on homepage.
 summary = "mid-infrared FTIR microscope with 2D array of detectors (FPA)"
 
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "CNT.png"
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder. 
+[image]
+  # Caption (optional)
+  caption = "Bruker Hyperion 3000"
+  
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
