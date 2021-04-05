@@ -8,6 +8,18 @@ title = "Spectrometer IFS 80v"
 # Project summary to display on homepage.
 summary = ""
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder. 
+[image]
+  # Caption (optional)
+  caption = "Bruker IFS 80v"
+  
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
+
+
+
 # Optional image to display on homepage (relative to `static/img/` folder).
 # image_preview = "CNT.png"
 
