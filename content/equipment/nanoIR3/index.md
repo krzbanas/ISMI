@@ -1,37 +1,30 @@
 +++
-# Date this page was created.
 date = "2019-03-15"
-
-# Project title.
+lastmod = "2019-03-15"
+draft = false
 title = "AFM-IR Microscope nanoIR3"
-
-# Project summary to display on homepage.
 summary = "AFM-IR Microscope nanoIR3"
-
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "CNT.png"
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["AFM-IR"]
-
-# Optional external URL for project (replaces project detail page).
 external_link = ""
-
-# Does the project detail page use math formatting?
 math = false
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/CNT01.png"
-caption = "AFM-IR composite image of carbon nano tubes assemblies"
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder. 
+[image]
+  # Caption (optional)
+  caption = "Results summary"
+  
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
+
+
 
 +++
 
 Details about the device
 
-|  Variable | Value |
-| --- | --- |
 |  Device | AFM-IR Microscope Anasys/ Bruker Nano|
+| --- | --- |
 |  Spectral Range | 800-1800 cm<sup>-1</sup> |
 |  Spectral Resolution | 6 cm<sup>-1</sup> |
