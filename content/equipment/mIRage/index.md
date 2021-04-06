@@ -21,13 +21,15 @@ math = false
 
 +++
 
-O-PTIR (optical Photothermal IR) spectroscopy
+## O-PTIR (optical Photothermal IR) spectroscopy
 
 - A pump-probe optical spectroscopy technique (“pump” - an IR laser , “probe” - a short-wavelength visible/NIR laser)
 - Sub-micron spatial resolution: Raman-like spatial resolution, with IR spectral information
 - FTIR transmission-like spectra in reflection mode by measuring the response of IR absorption (no distortions, artefacts or interference fringes) 
 - Non-contact technique that minimizes sample preparation and preserve molecular orientation
 - Spatial resolution is IR wavelength independent
+
+## mIRage - How it works?
 ![mIRage_schematic](mIRage_schematic.jpg)
 
 
