@@ -30,6 +30,6 @@ math = false
 - Spatial resolution is IR wavelength independent
 
 ## mIRage - How it works?
-![mIRage_schematic](mIRage_schematic.jpg)
+![mIRage_schematic](mIRage_schematic.jpg) *Source: https://www.photothermal.com/o-ptir/*
 
 
