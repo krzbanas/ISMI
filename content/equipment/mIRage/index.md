@@ -34,14 +34,15 @@ math = false
 
 ## Applications overview
 
--Industrial
+- Industrial
   - Particulates
   - Chemical
   - Micro-electronics
   - Failure/Defect analysis
   - Organic contamination
   - Fibers
--Academic Research
+  
+- Academic Research
   - Life Sciences
   - Polymers
   - Geological Sciences
