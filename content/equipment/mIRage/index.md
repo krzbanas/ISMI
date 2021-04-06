@@ -28,4 +28,6 @@ O-PTIR (optical Photothermal IR) spectroscopy
 - FTIR transmission-like spectra in reflection mode by measuring the response of IR absorption (no distortions, artefacts or interference fringes) 
 - Non-contact technique that minimizes sample preparation and preserve molecular orientation
 - Spatial resolution is IR wavelength independent
+![mIRage_schematic](mIRage_schematic.jpg)
+
 
