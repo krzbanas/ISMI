@@ -4,7 +4,7 @@ date = "2019-03-15"
 lastmod = "2019-03-15"
 draft = false
 tags = ["FTIR", "spectrometer"]
-title = "Spectrometer IFS 80v"
+title = "Spectrometer Vertex 80v"
 summary = """
 """
 math = false
@@ -13,7 +13,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Bruker IFS 80v"
+  caption = "Bruker Vertex 80v"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -33,7 +33,7 @@ external_link = ""
 Broad range high resolution vacuum FTIR spectrometer equipped with high throughput Michelson interferometer with automatic alignment.
 
 
-|  Device | FTIR Spectrometer IFS80 v Bruker |
+|  Device | FTIR Spectrometer Vertex 80v Bruker |
 | --- | --- |
 |  Spectral Range | 10-10000 cm<sup>-1</sup> |
 |  Spectral Resolution | 0.04 |
@@ -45,7 +45,7 @@ Broad range high resolution vacuum FTIR spectrometer equipped with high throughp
 |  Range | Beamsplitter(s) | Detector(s) | Source(s)|
 | --- | --- |  --- | --- |
 |  NIR | Glass | Diode | SR or Globar |
-|  MIR | Glass | Diode | SR or Globar |
+|  MIR | KBr | DTGS, MCT | SR or Globar |
 |  FIR | Glass | Bolometer | SR or Hg|
 
 
