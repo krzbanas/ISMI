@@ -32,4 +32,25 @@ math = false
 ## mIRage - How it works?
 ![mIRage_schematic](mIRage_schematic.jpg) *Source: https://www.photothermal.com/o-ptir/*
 
+## Applications overview
+
+-Industrial
+  - Particulates
+  - Chemical
+  - Micro-electronics
+  - Failure/Defect analysis
+  - Organic contamination
+  - Fibers
+-Academic Research
+  - Life Sciences
+  - Polymers
+  - Geological Sciences
+  - Microplastics
+  - Cultural Heritage
+  - Pharmaceutical
+
+
+
+
+
 
