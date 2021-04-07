@@ -22,9 +22,19 @@ math = false
 
 +++
 
-Details about the device
+The nanoIR3 is the latest generation nanoscale IR spectroscopy, chemical imaging, and property mapping system for both materials and life science applications. The system also provides IR-based chemical imaging to provide mapping of chemical variations of the feature of interest. Unique point spectroscopy capabilities provide both spectroscopy and chemical imaging with a single source.
 
-|  Device | AFM-IR Microscope Anasys/ Bruker Nano|
-| --- | --- |
-|  Spectral Range | 800-1800 cm<sup>-1</sup> |
-|  Spectral Resolution | 6 cm<sup>-1</sup> |
+Features:
+
+- Model free IR spectroscopy 
+      reliable acquisition of nanoscale absorption data
+- Sub-10 nm Tapping AFM-IR
+      chemical mapping at the highest spatial resolution, high-quality IR spectroscopy.
+- HYPERspectra imaging
+- High-Performance monolayer sensitivity 
+      the most sensitive technique for nanoscale spectroscopy of organic materials
+- Thermal Analysis
+      TTM (Transition Temperature Microscopy) –image the transition temperature across the sample surface; 
+- LorentzDrive Contact Reasonance Mode
+      nanomechanical response on sample
+
