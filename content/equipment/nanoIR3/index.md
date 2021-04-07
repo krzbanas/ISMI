@@ -26,9 +26,9 @@ The nanoIR3 is the latest generation nanoscale IR spectroscopy, chemical imaging
 
 Features:
 
-- Model free IR spectroscopy 
+- **Model free IR spectroscopy:** 
       reliable acquisition of nanoscale absorption data
-- Sub-10 nm Tapping AFM-IR
+- **Sub-10 nm Tapping AFM-IR:**
       chemical mapping at the highest spatial resolution, high-quality IR spectroscopy.
 - HYPERspectra imaging
 - High-Performance monolayer sensitivity 
