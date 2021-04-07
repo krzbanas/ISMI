@@ -34,8 +34,8 @@ Features:
 - **High-Performance monolayer sensitivity:** 
       the most sensitive technique for nanoscale spectroscopy of organic materials
       
-Additional modalities:      
-- **Thermal Analysis:**
+Additional modalities: 
+- [**Thermal Analysis:**]({{<ref"/accessories/Thermal-Analysis/index.md">}})
       TTM (Transition Temperature Microscopy) –image the transition temperature across the sample surface; 
 - **Lorentz Drive Contact Reasonance Mode:**
       nanomechanical response on sample
