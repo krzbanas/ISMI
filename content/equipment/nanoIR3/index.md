@@ -21,7 +21,7 @@ math = false
 
 
 +++
-
+# Anasys/Bruker Nano nanoIR3
 The nanoIR3 is the latest generation nanoscale IR spectroscopy, chemical imaging, and property mapping system for both materials and life science applications. The system also provides IR-based chemical imaging to provide mapping of chemical variations of the feature of interest. Unique point spectroscopy capabilities provide both spectroscopy and chemical imaging with a single source.
 
 Features:
@@ -40,3 +40,4 @@ Additional modalities:
 - **Lorentz Drive Contact Reasonance Mode:**
       nanomechanical response on sample
 
+# nanoIR3 tapping mode- How it works?
