@@ -41,4 +41,4 @@ Additional modalities:
       nanomechanical response on sample
 
 # nanoIR3 tapping mode- How it works?
-![nanoIR3_tapping](Basic principles of tapping AFM-IR.jpg) *Source: Centrone et al., Analyst, 2018, 143, 3808-3813, DOI: 10.1039/c8an00838h*
+![nanoIR3_tapping](Basic principles of tapping AFM-IR.jpg) *Source: Centrone et al., Analyst, 2018, 143, 3808-3813, DOI: https://doi.org/10.1039/C8AN00838H*
