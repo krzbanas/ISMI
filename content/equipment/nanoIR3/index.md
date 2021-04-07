@@ -30,11 +30,13 @@ Features:
       reliable acquisition of nanoscale absorption data
 - **Sub-10 nm Tapping AFM-IR:**
       chemical mapping at the highest spatial resolution, high-quality IR spectroscopy.
-- HYPERspectra imaging
-- High-Performance monolayer sensitivity 
+- **HYPERspectra imaging**
+- **High-Performance monolayer sensitivity:** 
       the most sensitive technique for nanoscale spectroscopy of organic materials
-- Thermal Analysis
+      
+Additional modalities:      
+- **Thermal Analysis:**
       TTM (Transition Temperature Microscopy) –image the transition temperature across the sample surface; 
-- LorentzDrive Contact Reasonance Mode
+- **Lorentz Drive Contact Reasonance Mode:**
       nanomechanical response on sample
 
