@@ -37,7 +37,7 @@ Features:
 Additional modalities: 
 - [**Thermal Analysis:**]({{<ref"/accessories/Thermal-Analysis/index.md">}})
       TTM (Transition Temperature Microscopy) –image the transition temperature across the sample surface; 
-- **Lorentz Drive Contact Reasonance Mode:**
+- [**Lorentz Drive Contact Reasonance Mode:**]({{<ref"/accessories/Lorentz-Analysis/index.md">}})
       nanomechanical response on sample
 
 # nanoIR3 tapping mode- How it works?
