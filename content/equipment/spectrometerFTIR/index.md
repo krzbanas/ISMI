@@ -52,9 +52,8 @@ Broad range high resolution vacuum FTIR spectrometer equipped with high throughp
 Accessories:
 
 - [MIRacle ATR -fast and easy IR sampling]({{<ref"/accessories/MIRacle/index.md">}})
- 
+- [Horizontal ATR - Maximum sensitivity and highly versatile FTIR sampling]({{<ref"/accessories/HATR/index.md">}})
 - [VeeMAX II – the ultimate specular reflection and ATR accessory]({{<ref"/accessories/VeeMaxII-ATR/index.md">}})
-
 - [Beam condenser 4x]({{<ref"/accessories/Beam-Condenser/index.md">}})
 
 
