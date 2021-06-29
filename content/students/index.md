@@ -1,5 +1,5 @@
 ---
-title: MSc and PhD Projects
+title: Student Projects
 
 # View.
 #   1 = List
