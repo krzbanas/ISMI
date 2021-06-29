@@ -41,7 +41,7 @@
 
 [[main]]
   name = "Student Projects"
-  url = "students/"
+  url = "students"
   weight = 60
 
 [[main]]
