@@ -24,12 +24,12 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
+#  [content.filters]
+#    tag = ""
+#    category = ""
+#    publication_type = ""
+#    author = ""
+#    exclude_featured = false
   
     # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
