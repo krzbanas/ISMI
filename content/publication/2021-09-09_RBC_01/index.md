@@ -1,5 +1,5 @@
 +++
-title = "Comparing infrared spectroscopic methods for the characterization of *Plasmodium falciparum*-infected human erythrocytes"
+title = "Comparing infrared spectroscopic methods for the characterization of Plasmodium falciparum-infected human erythrocytes"
 date = "2021-09-09"
 authors = ["Agnieszka Banas", "Krzysztof Banas", "Trang T. T. Chu", "Renugah Naidu", "Paul Edward Hutchinson", "Rupesh Agrawal", "Michael K. F. Lo", "Mustafa Kansiz", "Anirban Roy", "Rajesh Chandramohanadas", "Mark B. H. Breese"]
 publication_types = ["2"]
