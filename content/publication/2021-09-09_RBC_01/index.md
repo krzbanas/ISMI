@@ -22,7 +22,7 @@ url_source = "https://rdcu.be/cxugv"
 math = true
 highlight = true
 [header]
-image = "commChem_06.jpg"
-caption = ""
+  image = "commChem_06.jpg"
+  caption = ""
 +++
 
