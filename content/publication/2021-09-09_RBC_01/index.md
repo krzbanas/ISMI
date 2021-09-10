@@ -18,7 +18,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://doi-org.libproxy1.nus.edu.sg/10.1038/s42004-021-00567-2"
+url_source = "https://rdcu.be/cxugv"
 math = true
 highlight = true
 [header]
