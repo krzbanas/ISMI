@@ -25,4 +25,3 @@ highlight = true
   image = "commChem_06.jpg"
   caption = ""
 +++
-
