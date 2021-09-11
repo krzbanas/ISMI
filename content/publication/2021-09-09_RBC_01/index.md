@@ -1,41 +1,21 @@
-+++
-title = "Comparing infrared spectroscopic methods for the characterization of Plasmodium falciparum-infected human erythrocytes"
-date = "2021-09-09"
-authors = ["A Banas", "K Banas", "T T T Chu", "R Naidu", "P E Hutchinson", "R Agrawal", "M K F Lo", "M Kansiz", "A Roy", "R Chandramohanadas", "M B H Breese"]
-publication_types = ["2"]
-publication = " "
-publication_short = " "
-abstract = ""
-image_preview = ""
-selected = true
-projects = ["RBC"]
-tags = []
-url_pdf = ""
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-math = true
-highlight = true
-[header]
-  image = "commChem_06.jpg"
-  caption = ""
-+++
-
-
 ---
-title: "An example journal article"
+title: "Comparing infrared spectroscopic methods for the characterization of *Plasmodium falciparum*-infected human erythrocytes"
 authors:
-- admin
-- Robert Ford
+- A Banas
+- K Banas
+- T T T Chu
+- R Naidu
+- P E Hutchinson
+- R Agrawal
+- M K F Lo
+- M Kansiz
+- A Roy
+- R Chandramohanadas
+- M B H Breese
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2021-09-09T17:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -84,7 +64,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ["RBC"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
