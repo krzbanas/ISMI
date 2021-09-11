@@ -1,5 +1,5 @@
 ---
-title: "Comparing infrared spectroscopic methods for the characterization of *Plasmodium falciparum*-infected human erythrocytes"
+title: "Comparing infrared spectroscopic methods for the characterization of Plasmodium falciparum-infected human erythrocytes"
 authors:
 - A Banas
 - K Banas
@@ -36,7 +36,9 @@ abstract: "Malaria, caused by parasites of the species Plasmodium, is among the 
 summary: 
 
 tags:
-- Source Themes
+- RBC
+- OPTIR
+- AFM-IR
 featured: false
 
 # links:
