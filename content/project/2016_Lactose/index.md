@@ -4,7 +4,7 @@ date = "2016-07-31"
 lastmod = "2016-07-31"
 draft = false
 tags = ["lactose", "biology", "pharmacy"]
-title = "Lactose in tablets"
+title = "Lactose in tablets 2016"
 summary = """ Lactose - An Inactive Ingredient Of The Pharmaceuticals- Fingerprinting By Atr-Ftir Spectroscopy And Chemometrics
 """
 math = false
