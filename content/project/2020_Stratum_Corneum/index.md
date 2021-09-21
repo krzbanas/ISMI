@@ -4,7 +4,7 @@ date = "2019-07-31"
 lastmod = "2019-07-31"
 draft = false
 tags = ["stratum corneum", "skin"]
-title = "Stratum Corneum"
+title = "Stratum Corneum 2018"
 summary = """Evaluation of the infrared micro-spectroscopic results of stratum corneum treated with various compounds – search for representative spectrum 
 """
 math = false
