@@ -4,7 +4,7 @@ date = "2020-11-26"
 lastmod = "2020-11-26"
 draft = false
 tags = ["RBC", "AFM-IR", "FTIR", "malaria", "O-PTIR", "blood", "erythrocytes", "NEW", "biology"]
-title = "Malaria"
+title = "Malaria 2021"
 summary = """RBC Malaria FTIR oPTIR AFM-IR
 """
 math = false
