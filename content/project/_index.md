@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Projects at ISMI
 
 # View.
 #   1 = List
