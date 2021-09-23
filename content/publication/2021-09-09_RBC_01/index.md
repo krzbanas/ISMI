@@ -39,7 +39,7 @@ tags:
 - RBC
 - OPTIR
 - AFM-IR
-featured: false
+featured: true
 
 # links:
 # - name: ""
