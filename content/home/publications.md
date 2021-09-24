@@ -22,7 +22,8 @@ subtitle = ""
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
-
+  link_to_archive = true
+  
   # Filter posts by a taxonomy term.
   # [content.filters]
   # tag = "oPTIR, AFM-IR"
