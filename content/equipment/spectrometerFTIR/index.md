@@ -5,7 +5,7 @@ lastmod = "2019-03-15"
 draft = false
 tags = ["FTIR", "spectrometer"]
 title = "Spectrometer Vertex 80v"
-summary = """
+summary = """Spectrometer Vertex 80v
 """
 math = false
 
