@@ -1,7 +1,7 @@
 +++
 date = "2021-06-28"
 lastmod = "2021-06-28"
-draft = false
+draft = true
 tags = ["EBN", "food", "forensics"]
 title = "Edible Birds' Nests"
 summary = """Evaluation of the infrared spectroscopic results of edible birds nests samples from various regions
