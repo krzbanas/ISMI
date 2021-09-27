@@ -3,7 +3,7 @@ date = "2021-06-28"
 lastmod = "2021-06-28"
 draft = false
 tags = []
-title = "Equipment: Summary"
+title = "Summary"
 summary = """
 """
 math = false
@@ -20,4 +20,7 @@ math = false
 
 +++
 
-Add this file
+Depending on the spectral range, spatial resolution and the type of the sample you may choose appropriate equipment.
+Please consult the diagram below.
+
+Check below the details for the available equipment.
