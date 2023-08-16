@@ -36,7 +36,7 @@ height = "600px"
 
 
 [[item]]
-  title = "FTIR Microscope"
+  title = "IR Microscope"
   content = "Hyperion 3000"
   align = "center"
 
