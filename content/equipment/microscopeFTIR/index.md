@@ -59,8 +59,8 @@ Accessories:
 
 
 Objectives:
-- Transmission/Reflection infrared Schwarzschild objective 15x 
-- Transmission/Reflection infrared Schwarzschild objective 36x
-- ATR objective with Ge crystal 20x
+- Transmission/Reflection infrared Schwarzschild objective 15x (NA 0.4)
+- Transmission/Reflection infrared Schwarzschild objective 36x (NA 0.52)
+- ATR objective with Ge crystal 20x ((NA 0.6)
 - GIR Objective 15x
 - Viewing objective to observe the sample using visible light only 4x 
